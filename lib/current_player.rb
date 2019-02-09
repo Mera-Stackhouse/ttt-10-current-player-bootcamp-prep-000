@@ -15,7 +15,7 @@ end
   
   
   
-begin= 
+=begin
 if count % 2 == 0
     "X"
   else
