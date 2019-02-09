@@ -16,5 +16,9 @@ end
   
   
 begin= 
-
+if count % 2 == 0
+    "X"
+  else
+    "O" 
+  end
 =end 
